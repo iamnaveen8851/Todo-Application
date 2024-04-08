@@ -42,7 +42,7 @@ password - anything
 
     - action.js
     - actionItem.js
-    loginReducer.js
+    - loginReducer.js
 
 ## Theme Dir
 
