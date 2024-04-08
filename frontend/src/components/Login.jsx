@@ -42,7 +42,7 @@ function handleTheme(){
 
   return (
     <>
-    <Box h={"551px"} bg={isDarkTheme ? "black" : "white"} color={isDarkTheme? "white" : "black"}>
+    <Box h={"100vh"} bg={isDarkTheme ? "black" : "white"} color={isDarkTheme? "white" : "black"}>
       <Button onClick={handleTheme}>Change-Theme</Button>
       <Heading textAlign={"center"} mt={"5%"} textDecoration={"underline"}>
         Login
